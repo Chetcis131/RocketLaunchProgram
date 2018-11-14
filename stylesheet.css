@@ -1,0 +1,14 @@
+
+#row1, #row3, #row5 {
+    background-color: rgb(132, 150, 202);
+}
+#row2, #row4 {
+    background-color: rgb(86, 156, 235);
+}
+#table {
+
+    background-color: blue;
+}
+#counter {
+   font-style: italic;
+}
